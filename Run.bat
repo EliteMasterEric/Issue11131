@@ -1,0 +1,1 @@
+java -cp ".\bin\run.jar;.\bin\test.jar" haxe.root.Run
